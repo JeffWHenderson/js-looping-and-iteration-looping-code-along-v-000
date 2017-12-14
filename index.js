@@ -8,7 +8,7 @@ function printBadges(array) {
 
 function tailsNeverFails() {
   let number = Math.random()
-  let i = 1
+  let i = 0
 
   while (number <= 0.5) {
     i++;
