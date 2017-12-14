@@ -7,8 +7,7 @@ function printBadges(array) {
 }
 
 function tailsNeverFails() {
-  Math.random()
-  // let number = Math.random() <= 0.5;
+  let number = Math.random() <= 0.5;
   // let i = 0
   // while (number) {
   //   console.log(`You got ${i} tails in a row!`);
