@@ -14,5 +14,5 @@ function tailsNeverFails() {
     i++;
     //number = Math.random()
   }
-  console.log(`You got ${i} tails in a row!`);
+  return `You got ${i} tails in a row!`
 }
