@@ -10,7 +10,7 @@ function tailsNeverFails() {
   let number = Math.random()
   let i = 1
 
-  while (number <= .5) {
+  while (number <= 0.5) {
     i++;
     number = Math.random()
   }
