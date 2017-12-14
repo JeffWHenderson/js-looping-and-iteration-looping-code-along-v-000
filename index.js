@@ -6,6 +6,10 @@ function printBadges(array) {
   return array
 }
 
-function tailsNeverFails() {
-  
+function tailsNeverFails(){
+let number = Math.random() >= 0.5;
+
+
+while (maybeTrue()) {
+  console.log('And I ran... I ran so far away!');
 }
